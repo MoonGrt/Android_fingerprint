@@ -149,6 +149,7 @@ Project Link: [MoonGrt/Android_fingerprint](https://github.com/MoonGrt/Android_f
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
+* [BiometricPrompt](https://github.com/ZuoHailong/BiometricPrompt)
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
