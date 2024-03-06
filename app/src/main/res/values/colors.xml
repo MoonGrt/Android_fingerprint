@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#415FFF</color>
+    <color name="biometricprompt_color_primary">#415FFF</color>
+    <color name="biometricprompt_color_ffffff">#ffffff</color>
+    <color name="biometricprompt_color_333333">#333333</color>
+    <color name="biometricprompt_color_82C785">#82C785</color>
+    <color name="biometricprompt_color_FF5555">#FF5555</color>
+</resources>
